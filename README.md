@@ -16,11 +16,19 @@
 
 8. Exeption Handling
 
-## PPT used in video ##
-[pp assignment.pptx](https://github.com/Y-coderr/PPassignmentSubmission/files/13472591/pp.assignment.pptx)
+## Power Point Presentation ##
+[unit_6.pptx](https://github.com/Y-coderr/PPassignmentSubmission/files/13472591/pp.assignment.pptx)
 
-## Notes of this video ##
+## Download notes from here ##
 [UNIT 6 NOTES-1-1.pdf](https://github.com/Y-coderr/PPassignmentSubmission/files/13472553/UNIT.6.NOTES-1-1.pdf)
+
+## Download Video From Here ##
+
+## Quick Access To Video ##
+
+## 1.Pointers and Pointers to Objects this pointer and Pointer to Derived Classes ##
+
+
 
 
 
