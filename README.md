@@ -24,9 +24,11 @@
 
 ## Download Video From Here ##
 
-### Quick Access To Video ###
 
-1.Pointers and Pointers to Objects this pointer and Pointer to Derived Classes 
+## Quick Access To Video ##
+
+### 1.Pointers and Pointers to Objects this pointer and Pointer to Derived Classes ###
+
 
 
 
