@@ -16,7 +16,12 @@
 
 8. Exeption Handling
 
+## PPT used in video ##
+[pp assignment.pptx](https://github.com/Y-coderr/PPassignmentSubmission/files/13472591/pp.assignment.pptx)
 
+## Notes of this video ##
 [UNIT 6 NOTES-1-1.pdf](https://github.com/Y-coderr/PPassignmentSubmission/files/13472553/UNIT.6.NOTES-1-1.pdf)
 
-[pp assignment.pptx](https://github.com/Y-coderr/PPassignmentSubmission/files/13472591/pp.assignment.pptx)
+
+
+
