@@ -1,5 +1,5 @@
--- Unit 6 -- 
-## Programming Paradigm ##
+# Programming Paradigm #
+## Unit 6 ## 
 ## Video Containts ##
 
 1. Pointers and Pointers to Objects this pointer and Pointer to Derived Classes
