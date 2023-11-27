@@ -2,7 +2,7 @@
 ## Programming Paradigm ##
 ## Video Containts ##
 
-1.Pointers and Pointers to Objects this pointer and Pointer to Derived Classes
+1. Pointers and Pointers to Objects this pointer and Pointer to Derived Classes
 
 2. Compile time Polymorphism
 
@@ -28,6 +28,7 @@
 ## Quick Access To Video ##
 
 ### 1.Pointers and Pointers to Objects this pointer and Pointer to Derived Classes ###
+   [Video 1](https://drive.google.com/file/d/1gi9yqnVXSX1Mk7cwDUUgTyLOQ0yobqLe/view?usp=drivesdk)
 
 
 
